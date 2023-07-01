@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi2104&label=Profile%20views&color=0e75b6&style=flat" alt="harshi2104" /> </p>
 
 - 🔭 I’m currently studying **Computer Science from Manipal University Jaipur**
-- 🌱 I’m currently learning **DSA and Web Development**
+- 🌱 I’m currently working on my **Problem-Solving skills and DSA**
+- 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me **harshichawla12@gmailcom**
 
 <h3 align="left">Connect with me:</h3>
