@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying **Computer Science from Manipal University Jaipur**
 - 🌱 I’m currently working on my **Problem-Solving skills and DSA**
 - 🌱 I’m currently learning **Web Development**
-- 📫 How to reach me **harshichawla12@gmailcom**
+- 📫 How to reach me **harshichawla12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
